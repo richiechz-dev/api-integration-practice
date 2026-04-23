@@ -1,4 +1,4 @@
-# API Integration Practice
+# API Practica de Integración
 
 Ejercicios prácticos de integración con APIs REST en Python,
 cubriendo patrones comunes en entornos productivos. 
