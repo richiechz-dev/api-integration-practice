@@ -48,7 +48,7 @@ class Spoonacular:
 
 def main():
 
-    spoon = Spoonacular("https://api.spoonacular.com", "716429") # Intancia de la clase 
+    spoon = Spoonacular("https://api.spoonacular.com", "716429") # Instancia de la clase 
     print(spoon.get_ingredient())
 
 
