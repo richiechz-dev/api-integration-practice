@@ -1,0 +1,10 @@
+[project]
+name = "interview-integrator-engineer"
+version = "0.1.0"
+description = "Ejercicio practico de Integración con APIs REST en Python"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "dotenv>=0.9.9",
+    "requests>=2.33.1",
+]
