@@ -1,9 +1,9 @@
 # API Practica de Integración
 
-Ejercicios prácticos de integración con APIs REST en Python,
+Ejercicio práctico de integración con APIs REST en Python,
 cubriendo patrones comunes en entornos productivos. 
 
-## Ejercicios
+## Ejercicio
 
 **recipe_max_ingredient.py**  
 Clase que consume la API de Spoonacular para encontrar
