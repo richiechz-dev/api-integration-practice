@@ -40,7 +40,7 @@ class Spoonacular:
                 ingredient_name = ingredient["name"]
                 ingredient_amount_major = ingredient["amount"]
 
-        return {  # Retorno en forma de diccionario, por defeco tambien puedo retornar en forma de tupla y desempaquetarlo
+        return {  # Retorno en forma de diccionario, por defecto tambien puedo retornar en forma de tupla y desempaquetarlo
             "ingredient_max": ingredient_name,
             "amount": ingredient_amount_major,
         }
