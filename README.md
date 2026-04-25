@@ -1,7 +1,8 @@
 # API Practica de Integración
 
 Ejercicio práctico de integración con APIs REST en Python,
-cubriendo patrones comunes en entornos productivos. 
+inspirado en una prueba técnica real. El enunciado fue recreado por una seguna vez
+por cuenta propia para consolidar el aprendizaje, de igual forma simulando las condiciones.
 
 ## Ejercicio
 
